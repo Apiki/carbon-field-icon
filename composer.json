@@ -1,5 +1,5 @@
 {
-    "name": "htmlburger/carbon-field-icon",
+    "name": "apiki/carbon-field-icon",
     "description": "Carbon Fields extension, that adds a Icon field type.",
     "keywords": ["wordpress", "carbon-field", "carbon-field-icon"],
     "type": "library",
